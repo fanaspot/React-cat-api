@@ -1,0 +1,21 @@
+{
+  "name": "react-cat-api",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm run serve"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/sergey_me/react-cat-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/sergey_me/react-cat-api/issues"
+  },
+  "homepage": "https://gitlab.com/sergey_me/react-cat-api#readme"
+}

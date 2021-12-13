@@ -1,0 +1,17 @@
+.images-list {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 670px;
+}
+
+.images-list__image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 5px;
+}
+
+.images-list__image:not(:nth-of-type(3n)) {
+  margin-right: 5px;
+}
